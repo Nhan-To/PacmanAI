@@ -1,0 +1,5 @@
+python -B pacman.py
+python -B pacman.py --layout mediumMaze --pacman AStarFoodSearchAgent --zoom 1
+python -B pacman.py -l bigMaze -p AStarFoodSearchAgent -z 0.5
+python -B pacman.py -l bigMaze -p UCSFoodSearchAgent -z 0.5
+
